@@ -55,15 +55,17 @@
   <tr>
     <td> <h2> May 31st </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/esg-hero.max-2800x2800.jpg" alt="img" width="150" /> </td>
-    <td><a href="https://cloud.google.com/blog/products/networking/the-economic-advantages-of-google-cloud-networking"> <h2>
-  The economic advantages of Google Cloud Networking
-  </a></td>
+    <td><h2>
+    <a href="https://cloud.google.com/blog/products/networking/the-economic-advantages-of-google-cloud-networking"> 
+  The economic advantages of Google Cloud Networking</a> </h2>
+  </td>
   </tr>
   <tr>
     <td> <h2> May 3rd </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_2022_b3vo6c3.max-2800x2800.jpg" alt="ilb" width="150
     " /> </td>
-    <td><a href="https://cloud.google.com/blog/products/networking/architecture-best-practices-for-internet-apps-and-services"> <h2>
+    <td> <h2>
+<a href="https://cloud.google.com/blog/products/networking/architecture-best-practices-for-internet-apps-and-services"> <h2>
   Internet-facing application delivery
   </a></td>
   </tr>
@@ -71,7 +73,8 @@
     <td> <h2> April 25th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/advance_networking.max-2500x2500.jpg" alt="ilb" width="150
     " /> </td>
-    <td><a href="https://cloud.google.com/blog/products/networking/introducing-the-advanced-networking-demo-video-series"> <h2>
+    <td> <h2>
+<a href="https://cloud.google.com/blog/products/networking/introducing-the-advanced-networking-demo-video-series"> <h2>
   Introducing the Advanced Networking Demo video series
   </a></td>
   </tr>
@@ -79,7 +82,8 @@
     <td> <h2> March 13th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/Service_Directory.max-2800x2800.jpg" alt="ilb" width="150
     " /> </td>
-    <td><a href="https://cloud.google.com/blog/products/networking/introducing-the-advanced-networking-demo-video-series"> <h2>
+    <td> <h2>
+<a href="https://cloud.google.com/blog/products/networking/introducing-the-advanced-networking-demo-video-series"> <h2>
   Six benefits of using Service Directory in your environment
   </a></td>
   </tr>
@@ -87,7 +91,8 @@
     <td> <h2> January 9th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_2022.max-2500x2500.jpg" alt="ilb" width="150
     " /> </td>
-    <td><a href="https://cloud.google.com/blog/topics/developers-practitioners/two-networking-patterns-secure-intra-cloud-access"> <h2>
+    <td> <h2>
+<a href="https://cloud.google.com/blog/topics/developers-practitioners/two-networking-patterns-secure-intra-cloud-access"> <h2>
   Two networking patterns for secure intra-cloud access
   </a></td>
   </tr>
@@ -103,13 +108,15 @@
     <td> <h2> Nov 7 </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/cloud_armor.max-2600x2600.png" alt="ilb" width="150
     " /> </td>
-    <td><a href="https://cloud.google.com/blog/topics/developers-practitioners/when-should-i-use-cloud-armor"> <h2>
+    <td> <h2>
+<a href="https://cloud.google.com/blog/topics/developers-practitioners/when-should-i-use-cloud-armor"> <h2>
     When should I use Cloud Armor
   </a></td>
   <td> <h2> October 7 </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/blocks.max-1600x1600.png" alt="ilb" width="150
     " /> </td>
-    <td><a href="https://cloud.google.com/blog/topics/developers-practitioners/6-building-blocks-cloud-networking-networking-architecture"> <h2>
+    <td> <h2>
+<a href="https://cloud.google.com/blog/topics/developers-practitioners/6-building-blocks-cloud-networking-networking-architecture"> <h2>
     6 Building blocks for cloud networking
   </a></td>
   </tr>
@@ -117,13 +124,15 @@
     <td> <h2> August 17 </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/k8net.png" alt="ilb" width="150
     " /> </td>
-    <td><a href="https://cloud.google.com/blog/topics/developers-practitioners/understanding-basic-networking-gke-networking-basics"> <h2>
+    <td> <h2>
+<a href="https://cloud.google.com/blog/topics/developers-practitioners/understanding-basic-networking-gke-networking-basics"> <h2>
     Understanding basic networking in GKE 
   </a></td>
   <td> <h2> July 29 </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/GCLB_8.max-2000x2000.png" alt="ilb" width="150
     " /> </td>
-    <td><a href="https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-global-external-https-load-balancer-deep-dive"> <h2>
+    <td> <h2>
+<a href="https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-global-external-https-load-balancer-deep-dive"> <h2>
     Google Cloud Global External HTTP(S) Load Balancer - Deep Dive
   </a></td>
   </tr>
