@@ -46,17 +46,15 @@
 <tbody>
   <tr>
     <td> <h2> June 9th </td>
-    <td> <img src="img/ilb-b.jpg" alt="ilb" width="150
-    " /> </td>
-    <td><a href="https://www.techinterviewhandbook.org/"> <h2>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/ilb-hero.max-2500x2500.jpg" alt="ilb" width="150" /> </td>
+    <td><a href="https://cloud.google.com/blog/products/networking/load-balancing-inside-public-cloud-options-and-optimizations"> <h2>
     Designing Multi-regional Internal Load Balancing with Google Cloud iLB + Cloud DNS
   </a></td>
   </tr>
   <tr>
     <td> <h2> May 31st </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/esg-hero.max-2800x2800.jpg" alt="ilb" width="150
-    " /> </td>
-    <td><a href="https://www.techinterviewhandbook.org/"> <h2>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/esg-hero.max-2800x2800.jpg" alt="img" width="150" /> </td>
+    <td><a href="https://cloud.google.com/blog/products/networking/the-economic-advantages-of-google-cloud-networking"> <h2>
   The economic advantages of Google Cloud Networking
   </a></td>
   </tr>
