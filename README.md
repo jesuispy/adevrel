@@ -83,7 +83,7 @@
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/Service_Directory.max-2800x2800.jpg" alt="ilb" width="150
     " /> </td>
     <td> <h2>
-<a href="https://cloud.google.com/blog/products/networking/introducing-the-advanced-networking-demo-video-series"> 
+<a href="https://cloud.google.com/blog/products/networking/reasons-to-use-service-directory-inside-google-cloud"> 
   Six benefits of using Service Directory in your environment
   </a></td>
   </tr>
