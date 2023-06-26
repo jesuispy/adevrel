@@ -48,7 +48,7 @@
     <td> <h2> June 9th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/ilb-hero.max-2500x2500.jpg" alt="ilb" width="150" /> </td>
     <td><a href="https://cloud.google.com/blog/products/networking/load-balancing-inside-public-cloud-options-and-optimizations"> <h2>
-    Designing Multi-regional Internal Load Balancing with Google Cloud iLB + Cloud DNS
+    Designing Multi-regional Internal Load Balancing with Google Cloud iLB + Cloud DNS </h2>
   </a></td>
   </tr>
   <tr>
