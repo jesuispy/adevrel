@@ -45,6 +45,14 @@
 <div class="tg-wrap"><table>
 <tbody>
   <tr>
+    <td> <h2> June 27th </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_462D2f7.max-2000x2000.jpg" alt="ilb" width="150" /> </td>
+    <td> <h2>
+      <a href="https://cloud.google.com/blog/products/networking/networking-101-google-cloud-reference-sheet-version-2">
+    Networking 101 Google Cloud reference sheet 2023 v2 </a> </h2>
+    </td>
+  </tr>
+  <tr>
     <td> <h2> June 9th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/ilb-hero.max-2500x2500.jpg" alt="ilb" width="150" /> </td>
     <td> <h2>
