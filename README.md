@@ -35,7 +35,9 @@
 
 ## 2023
 - #### Cross-Cloud Interconnect demo 2  
-  [![Video](https://img.youtube.com/vi/W-fVLyCQ2kA/maxresdefault.jpg)](https://www.youtube.com/embed/W-fVLyCQ2kA "Click to play YouTube")
+  
+
+  [<img src="https://img.youtube.com/vi/W-fVLyCQ2kA/maxresdefault.jpg" width="70%">](https://www.youtube.com/watch?v=W-fVLyCQ2kA "Click to play YouTube")
 
 
 
