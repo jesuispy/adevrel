@@ -36,9 +36,9 @@
 ## 2023
 - #### Cross-Cloud Interconnect demo 2  - Click to view YouTube
   
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/watch?v=W-fVLyCQ2kA" target="_blank">
-    <img src="https://img.youtube.com/vi/W-fVLyCQ2kA/maxresdefault.jpg" width="70%" alt="Click to play video" />
+    <img src="https://img.youtube.com/vi/W-fVLyCQ2kA/maxresdefault.jpg" width="50%" alt="Click to play video" />
   </a>
   <br />
   
@@ -227,8 +227,7 @@
 <div class="tg-wrap"><table>
 <tbody>
   <tr>
-     <td> <img src="https://books.google.ca/books/publisher/content?id=YcirEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0HS8z2A9voe0oyvOavuLanKTFsrg&w=1280" alt="ace" width="200
-    " /> </td>
+     <td> <img src="https://books.google.ca/books/publisher/content?id=YcirEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0HS8z2A9voe0oyvOavuLanKTFsrg&w=1280" alt="ace" width="200" /> </td>
     <td><h4>Technical Editor <a href="https://www.google.ca/books/edition/Google_Cloud_Certified_Associate_Cloud_E/YcirEAAAQBAJ?hl=en&gbpv=0" target="_blank">     Associate Cloud Engineer Study Guide second edition
   </a></td>
   </tr>
@@ -242,8 +241,7 @@
 <div class="tg-wrap"><table>
 <tbody>
     <tr>
-    <td> <img src="https://books.google.ca/books/publisher/content?id=3YJlEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U25Xhh6TCAuEhPhIaC758cf7FhgEQ&w=1280" alt="pca" width="200
-    " /> </td>
+    <td> <img src="https://books.google.ca/books/publisher/content?id=3YJlEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U25Xhh6TCAuEhPhIaC758cf7FhgEQ&w=1280" alt="pca" width="200" /> </td>
     <td><h4>Technical Editor <a href="https://www.google.ca/books/edition/Google_Cloud_Certified_Professional_Clou/3YJlEAAAQBAJ?hl=en&gbpv=0" target="_blank">     Google Cloud Certified Professional Cloud Architect Study Guide second edition </a></td>
   </tr>
   
