@@ -34,12 +34,16 @@
 </div>
 
 ## 2023
-- #### Cross-Cloud Interconnect demo 2  
+- #### Cross-Cloud Interconnect demo 2  - Click to view YouTube
   
-
-  [<img src="https://img.youtube.com/vi/W-fVLyCQ2kA/maxresdefault.jpg" width="70%">](https://www.youtube.com/watch?v=W-fVLyCQ2kA "Click to play YouTube")
-
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=W-fVLyCQ2kA" target="_blank">
+    <img src="https://img.youtube.com/vi/W-fVLyCQ2kA/maxresdefault.jpg" width="70%" alt="Click to play video" />
+  </a>
+  <br />
+  
+  
+</div>
 
 ---
 
@@ -63,7 +67,7 @@
     <td> <h4> July 19th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/psc-hero.max-2500x2500.jpg" alt="ilb" width="150" /> </td>
     <td> <h4>
-      <a href="https://cloud.google.com/blog/products/networking/three-consumer-private-service-connect-designs">
+      <a target="_blank" href="https://cloud.google.com/blog/products/networking/three-consumer-private-service-connect-designs">
     Three Private Service Connect patterns - Networking basics </a> </h4>
     </td>
   </tr>
@@ -72,7 +76,7 @@
     <td> <h4> June 27th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_462D2f7.max-2000x2000.jpg" alt="ilb" width="150" /> </td>
     <td> <h4>
-      <a href="https://cloud.google.com/blog/products/networking/networking-101-google-cloud-reference-sheet-version-2">
+      <a href="https://cloud.google.com/blog/products/networking/networking-101-google-cloud-reference-sheet-version-2" target="_blank">
     Networking 101 Google Cloud reference sheet 2023 v2 </a> </h4>
     </td>
   </tr>
@@ -80,7 +84,7 @@
     <td> <h4> June 9th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/ilb-hero.max-2500x2500.jpg" alt="ilb" width="150" /> </td>
     <td> <h4>
-      <a href="https://cloud.google.com/blog/products/networking/load-balancing-inside-public-cloud-options-and-optimizations">
+      <a href="https://cloud.google.com/blog/products/networking/load-balancing-inside-public-cloud-options-and-optimizations" target="_blank">
     Designing Multi-regional Internal Load Balancing with Google Cloud iLB + Cloud DNS </a> </h4>
     </td>
   </tr>
@@ -88,7 +92,7 @@
     <td> <h4> May 31st </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/esg-hero.max-2800x2800.jpg" alt="img" width="150" /> </td>
     <td><h4>
-    <a href="https://cloud.google.com/blog/products/networking/the-economic-advantages-of-google-cloud-networking"> 
+    <a href="https://cloud.google.com/blog/products/networking/the-economic-advantages-of-google-cloud-networking" target="_blank"> 
   The economic advantages of Google Cloud Networking</a> </h4>
   </td>
   </tr>
@@ -97,7 +101,7 @@
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_2022_b3vo6c3.max-2800x2800.jpg" alt="ilb" width="150
     " /> </td>
     <td> <h4>
-<a href="https://cloud.google.com/blog/products/networking/architecture-best-practices-for-internet-apps-and-services"> 
+<a href="https://cloud.google.com/blog/products/networking/architecture-best-practices-for-internet-apps-and-services" target="_blank"> 
   Internet-facing application delivery
   </a></td>
   </tr>
@@ -106,7 +110,7 @@
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/advance_networking.max-2500x2500.jpg" alt="ilb" width="150
     " /> </td>
     <td> <h4>
-<a href="https://cloud.google.com/blog/products/networking/introducing-the-advanced-networking-demo-video-series"> 
+<a href="https://cloud.google.com/blog/products/networking/introducing-the-advanced-networking-demo-video-series" target="_blank"> 
   Introducing the Advanced Networking Demo video series
   </a></h4></td>
   </tr>
@@ -115,7 +119,7 @@
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/Service_Directory.max-2800x2800.jpg" alt="ilb" width="150
     " /> </td>
     <td> <h4>
-<a href="https://cloud.google.com/blog/products/networking/reasons-to-use-service-directory-inside-google-cloud"> 
+<a href="https://cloud.google.com/blog/products/networking/reasons-to-use-service-directory-inside-google-cloud" target="_blank"> 
   Six benefits of using Service Directory in your environment
   </a></td>
   </tr>
@@ -124,7 +128,7 @@
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_2022.max-2500x2500.jpg" alt="ilb" width="150
     " /> </td>
     <td> <h4>
-<a href="https://cloud.google.com/blog/topics/developers-practitioners/two-networking-patterns-secure-intra-cloud-access"> 
+<a href="https://cloud.google.com/blog/topics/developers-practitioners/two-networking-patterns-secure-intra-cloud-access" target="_blank"> 
   Two networking patterns for secure intra-cloud access
   </a></td>
   </tr>
@@ -141,14 +145,14 @@
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/cloud_armor.max-2600x2600.png" alt="ilb" width="150
     " /> </td>
     <td> <h4>
-<a href="https://cloud.google.com/blog/topics/developers-practitioners/when-should-i-use-cloud-armor"> 
+<a href="https://cloud.google.com/blog/topics/developers-practitioners/when-should-i-use-cloud-armor" target="_blank"> 
     When should I use Cloud Armor
   </a></td>
   <td> <h4> October 7 </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/blocks.max-1600x1600.png" alt="ilb" width="150
     " /> </td>
     <td> <h4>
-<a href="https://cloud.google.com/blog/topics/developers-practitioners/6-building-blocks-cloud-networking-networking-architecture"> 
+<a href="https://cloud.google.com/blog/topics/developers-practitioners/6-building-blocks-cloud-networking-networking-architecture" target="_blank"> 
     6 Building blocks for cloud networking
   </a></td>
   </tr>
@@ -157,14 +161,14 @@
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/k8net.png" alt="ilb" width="150
     " /> </td>
     <td> <h4>
-<a href="https://cloud.google.com/blog/topics/developers-practitioners/understanding-basic-networking-gke-networking-basics"> 
+<a href="https://cloud.google.com/blog/topics/developers-practitioners/understanding-basic-networking-gke-networking-basics" target="_blank"> 
     Understanding basic networking in GKE 
   </a></td>
   <td> <h4> July 29 </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/GCLB_8.max-2000x2000.png" alt="ilb" width="150
     " /> </td>
     <td> <h4>
-<a href="https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-global-external-https-load-balancer-deep-dive"> 
+<a href="https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-global-external-https-load-balancer-deep-dive" target="_blank"> 
     Google Cloud Global External HTTP(S) Load Balancer - Deep Dive
   </a></td>
   </tr>
@@ -225,7 +229,7 @@
   <tr>
      <td> <img src="https://books.google.ca/books/publisher/content?id=YcirEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0HS8z2A9voe0oyvOavuLanKTFsrg&w=1280" alt="ace" width="200
     " /> </td>
-    <td><h4>Technical Editor <a href="https://www.google.ca/books/edition/Google_Cloud_Certified_Associate_Cloud_E/YcirEAAAQBAJ?hl=en&gbpv=0">     Associate Cloud Engineer Study Guide second edition
+    <td><h4>Technical Editor <a href="https://www.google.ca/books/edition/Google_Cloud_Certified_Associate_Cloud_E/YcirEAAAQBAJ?hl=en&gbpv=0" target="_blank">     Associate Cloud Engineer Study Guide second edition
   </a></td>
   </tr>
  
@@ -240,7 +244,7 @@
     <tr>
     <td> <img src="https://books.google.ca/books/publisher/content?id=3YJlEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U25Xhh6TCAuEhPhIaC758cf7FhgEQ&w=1280" alt="pca" width="200
     " /> </td>
-    <td><h4>Technical Editor <a href="https://www.google.ca/books/edition/Google_Cloud_Certified_Professional_Clou/3YJlEAAAQBAJ?hl=en&gbpv=0">     Google Cloud Certified Professional Cloud Architect Study Guide second edition </a></td>
+    <td><h4>Technical Editor <a href="https://www.google.ca/books/edition/Google_Cloud_Certified_Professional_Clou/3YJlEAAAQBAJ?hl=en&gbpv=0" target="_blank">     Google Cloud Certified Professional Cloud Architect Study Guide second edition </a></td>
   </tr>
   
 </tbody>
