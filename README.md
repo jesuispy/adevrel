@@ -64,6 +64,14 @@
 <tbody>
 
   <tr>
+    <td> <h4> August 9th </td>
+    <td> <img src="https://img.youtube.com/vi/W-fVLyCQ2kA/maxresdefault.jpg" alt="cci" width="150" /> </td>
+    <td> <h4>
+      <a target="_blank" href="https://cloud.google.com/blog/products/networking/advanced-networking-demos-cross-cloud-interconnect">
+    Advanced Networking Demo videos — Cross-Cloud Interconnect edition </a> </h4>
+    </td>
+  </tr>
+  <tr>
     <td> <h4> July 19th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/psc-hero.max-2500x2500.jpg" alt="ilb" width="150" /> </td>
     <td> <h4>
