@@ -34,6 +34,7 @@
 </div>
 
 ## 2023
+- #### Advanced Networking Demo series - Click link to view YouTube Playlist [https://goo.gle/AdvancedNetworking](https://goo.gle/AdvancedNetworking) 
 - #### Cross-Cloud Interconnect demo 2  - Click to view YouTube
   
 <div align="left">
@@ -42,8 +43,8 @@
   </a>
   <br />
   
-  
 </div>
+
 
 ---
 
@@ -63,6 +64,23 @@
 <div class="tg-wrap"><table>
 <tbody>
 
+<tr>
+    <td> <h4> Dec 12th </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/advance_networking_demos.max-2500x2500.jpg" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/products/networking/advanced-networking-demos-firewall-plus-ncc-vpc-spokes-and-nfo">
+    Advanced Networking Demos Cloud Firewall Plus, NCC VPC spokes & NFO edition </a> </h4>
+    </td>
+  </tr>
+  <tr>
+    <td> <h4> Oct 11th </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_2023.max-2500x2500.jpg" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a target="_blank" href="https://cloud.google.com/blog/products/networking/hybrid-and-multicloud-network-architectures">
+    Connecting hybrid and multicloud workloads - Networking Architecture </a> </h4>
+    </td>
+  </tr>
+  
   <tr>
     <td> <h4> August 9th </td>
     <td> <img src="https://img.youtube.com/vi/W-fVLyCQ2kA/maxresdefault.jpg" alt="cci" width="150" /> </td>
@@ -219,7 +237,7 @@
 
 - #### Labs on dual stack Google Cloud networks | [IP addressing options IPv4 and IPv6](https://codelabs.developers.google.com/codelabs/ipv4-ipv6-addressing#0) 
 
-
+- #### Duet AI in Google Cloud learning path | [Duet AI for Network Engineers](https://www.cloudskillsboost.google/paths/236/course_templates/884) 
 ---
 
 <div align="left">
