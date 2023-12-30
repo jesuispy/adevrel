@@ -65,6 +65,15 @@
 <tbody>
 
 <tr>
+    <td> <h4> Dec 21st </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/duet_ai_response.max-1900x1900.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/products/ai-machine-learning/get-ai-help-on-networking-tasks">
+    Explain and customize cloud networking with Duet AI </a> </h4>
+    </td>
+  </tr>
+
+<tr>
     <td> <h4> Dec 12th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/advance_networking_demos.max-2500x2500.jpg" alt="psc" width="150" /> </td>
     <td> <h4>
