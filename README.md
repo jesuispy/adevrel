@@ -10,7 +10,7 @@
     Connect on <a href="https://www.linkedin.com/in/ammett/" target="_blank">
     <img src="img/li.png" alt="discord" width="10"/> LinkedIn</a> | <a href="https://discord.com/invite/SmcfYYn" target="_blank">
     <img src="img/dc.png" alt="twitter" width="10"/> Discord</a> | <a href="https://twitter.com/ammettw" target="_blank">
-    <img src="img/ti.png" alt="twitter" width="13
+    <img src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?w=900&t=st=1711135632~exp=1711136232~hmac=034d05202890e26da1097c0a43d9174830c00af244b375052b0bccb2a6617134" alt="twitter" width="13
 "/> Twitter</a> | 
   </p>
 </div>
@@ -25,15 +25,68 @@
 
 ### I do a lot of stuff so here is where you can see some of stuff I did in one place.
 
+## 2024 - Content
+
+<div align="left">
+  <h2 style="color:#4285F4; ">💡 Google Cloud Blog Site - 2024
+     💡
+  </h2>
+</div>
+
+<div class="tg-wrap"><table>
+<tbody>
+
+<tr>
+    <td> <h4> Feb 27th </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_3Z7Xc6t.max-2500x2500.jpg" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/products/networking/connect-google-cloud-to-on-prem-and-other-clouds">
+    Cross-Cloud Network: Private, customizable and flexible networking </a> </h4>
+    </td>
+  </tr>
+
+<tr>
+    <td> <h4> Feb 7th </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-hero-tour-of-networking.max-2500x2500.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/products/networking/learn-how-to-network-in-the-cloud">
+    Start your cloud networking journey today </a> </h4>
+    </td>
+  </tr>
+  
+</tbody>
+</table></div>
+---
+<div align="left">
+  <h2 style="color:#4285F4; ">💡 Hands-on labs - 2024
+     💡
+  </h2>
+</div>
+
+<div class="tg-wrap"><table>
+<tbody>
+
+<tr>
+    <td> <h4> Jan </td>
+    <td> <img src="https://cdn.qwiklabs.com/YdtfADcLnGIZx2AMED5aYHjfzJub7UOvizh8u3b0i9g%3D" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://www.cloudskillsboost.google/focuses/84417?parent=catalog">
+    A Tour of Cloud Networking </a> </h4>
+    </td>
+  </tr>
+  
+</tbody>
+</table>
+</div>
 
 ---
+## 2023 - Content 
 <div align="left">
   <h2 style="color:#4285F4; ">💡 YouTube videos
      💡
   </h2>
 </div>
 
-## 2023
 - #### Advanced Networking Demo series - Click link to view YouTube Playlist [https://goo.gle/AdvancedNetworking](https://goo.gle/AdvancedNetworking) 
 - #### Cross-Cloud Interconnect demo 2  - Click to view YouTube
   
