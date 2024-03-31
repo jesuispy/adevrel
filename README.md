@@ -58,6 +58,24 @@
 </table></div>
 ---
 <div align="left">
+  <h2 style="color:#4285F4; ">💡 YouTube videos 2024
+     💡
+  </h2>
+</div>
+
+- #### Advanced Networking Demo series - Click link to view YouTube Playlist [https://goo.gle/AdvancedNetworking](https://goo.gle/AdvancedNetworking) 
+- #### Cloud NGFW Enterprise Demo  - Click to view YouTube
+  
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=OCqnf2E6zn0" target="_blank">
+    <img src="https://img.youtube.com/vi/OCqnf2E6zn0/maxresdefault.jpg" width="50%" alt="Click to play video" />
+  </a>
+  <br />
+  
+</div>
+
+---
+<div align="left">
   <h2 style="color:#4285F4; ">💡 Hands-on labs - 2024
      💡
   </h2>
@@ -79,6 +97,16 @@
 </table>
 </div>
 
+
+<div align="left">
+  <h2 style="color:#0F9D58; ">💡 Medium publication Blog - 2024
+     💡
+  </h2>
+</div>
+
+- #### [Networking in Google Cloud — Things to check out to catch up -’24 edition](https://medium.com/p/3e02b2ea1944) 
+
+- #### [Google Cloud HA VPN to Compute Engine VM (NVA) config lab with VyOS](https://medium.com/p/a447624849da) 
 ---
 ## 2023 - Content 
 <div align="left">
