@@ -56,10 +56,11 @@
   
 </tbody>
 </table></div>
+
 ---
 <div align="left">
-  <h2 style="color:#4285F4; ">💡 YouTube videos 2024
-     💡
+  <h2 style="color:#4285F4; ">📺 YouTube videos 2024
+     📺
   </h2>
 </div>
 
@@ -76,8 +77,8 @@
 
 ---
 <div align="left">
-  <h2 style="color:#4285F4; ">💡 Hands-on labs - 2024
-     💡
+  <h2 style="color:#4285F4; ">👨‍💻 Hands-on labs - 2024
+     👨‍💻
   </h2>
 </div>
 
@@ -97,10 +98,35 @@
 </table>
 </div>
 
+---
 
 <div align="left">
-  <h2 style="color:#0F9D58; ">💡 Medium publication Blog - 2024
-     💡
+  <h2 style="color:#4285F4; ">📜 Technical Papers / Architecture Docs -2024
+     📜
+  </h2>
+</div>
+
+
+<div class="tg-wrap"><table>
+<tbody>
+  <tr>
+     <td> <img src="https://cloud.google.com/static/architecture/images/ccn-distributed-apps-design/ccn-1a.svg" alt="ace" width="200" /> </td>
+    <td><h4>Cross-Cloud Network Architecture Center </br></br><a href="https://cloud.google.com/architecture/ccn-distributed-apps-design" target="_blank">- Cross-Cloud Network for distributed applications </a>
+    </br></br>
+    <a href="https://cloud.google.com/architecture/ccn-distributed-apps-design/connectivity" target="_blank"> - Network segmentation and connectivity for distributed applications in Cross-Cloud Network </a>
+     </br></br>
+    <a href="https://cloud.google.com/architecture/ccn-distributed-apps-design/connectivity" target="_blank"> - Network security for distributed applications in Cross-Cloud Network </a>
+</h4>
+    </td>
+  </tr>
+ 
+  
+</tbody>
+</table></div>
+
+<div align="left">
+  <h2 style="color:#0F9D58; ">✍️ Medium publication Blog - 2024
+     ✍️
   </h2>
 </div>
 
