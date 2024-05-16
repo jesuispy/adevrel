@@ -35,6 +35,14 @@
 
 <div class="tg-wrap"><table>
 <tbody>
+<tr>
+    <td> <h4> May 2nd </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/1-matrix.max-1800x1800.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/products/networking/private-connectivity-to-vertex-workloads">
+    Private networking patterns to Vertex AI workloads </a> </h4>
+    </td>
+  </tr>
 
 <tr>
     <td> <h4> Feb 27th </td>
@@ -340,16 +348,40 @@
 - #### [Preparing for success with Google Cloud Professional Cloud Database Engineer Exam](https://medium.com/google-cloud/preparing-for-success-with-google-cloud-professional-cloud-database-engineer-exam-2023-3ad33fa3eea9)
 
 ---
-
 <div align="left">
-  <h2 style="color:#F4B400; ">💡 Labs
+  <h2 style="color:#4285F4; ">📜 Technical Papers / Architecture Docs -2023
+     📜
+  </h2>
+</div>
+
+
+<div class="tg-wrap"><table>
+<tbody>
+  <tr>
+     <td> <img src="https://cloud.google.com/static/architecture/images/ccn-distributed-apps-design/ccn-1a.svg" alt="ace" width="200" /> </td>
+    <td><h4>Architecture Documentation </br></br><a href="https://cloud.google.com/architecture/partners/fortigate-architecture-in-cloud" target="_blank">- FortiGate architecture in Google Cloud </a>
+    </br></br>
+    <a href="https://cloud.google.com/architecture/hybrid-multicloud-patterns/one-page-view" target="_blank"> - Build hybrid and multicloud architectures using Google Cloud </a>
+     </br></br>
+    <a href="https://cloud.google.com/architecture/hybrid-multicloud-patterns-and-practices/one-page-view" target="_blank"> - Hybrid and multicloud architecture patterns</a>
+     </br></br>
+    <a href="https://cloud.google.com/architecture/hybrid-multicloud-secure-networking-patterns/one-page-view" target="_blank"> - Hybrid and multicloud secure networking architecture patterns</a>
+</h4>
+    </td>
+  </tr>
+ 
+  
+</tbody>
+</table></div>
+
+----
+<div align="left">
+  <h2 style="color:#F4B400; ">💡 Labs 2023
      💡
   </h2>
 </div>
 
----
 
-## 2023
 
 - #### Labs on dual stack Google Cloud networks | [IP addressing options IPv4 and IPv6](https://codelabs.developers.google.com/codelabs/ipv4-ipv6-addressing#0) 
 
