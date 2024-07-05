@@ -44,14 +44,6 @@
     </td>
   </tr>
 
-<tr>
-    <td> <h4> May 2nd </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-ai-hero.max-2500x2500.png" alt="psc" width="150" /> </td>
-    <td> <h4>
-      <a href="https://cloud.google.com/blog/products/networking/private-connectivity-to-vertex-workloads">
-    Private networking patterns to Vertex AI workloads </a> </h4>
-    </td>
-  </tr>
 
 <tr>
     <td> <h4> Feb 27th </td>
