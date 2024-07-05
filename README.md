@@ -37,6 +37,15 @@
 <tbody>
 
 <tr>
+    <td> <h4> May 2nd </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-ai-hero.max-2500x2500.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/products/networking/private-connectivity-to-vertex-workloads">
+    Private networking patterns to Vertex AI workloads </a> </h4>
+    </td>
+  </tr>
+
+<tr>
     <td> <h4> Feb 27th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_3Z7Xc6t.max-2500x2500.jpg" alt="psc" width="150" /> </td>
     <td> <h4>
@@ -64,7 +73,17 @@
   </h2>
 </div>
 
-- #### Advanced Networking Demo series - Click link to view YouTube Playlist [https://goo.gle/AdvancedNetworking](https://goo.gle/AdvancedNetworking) 
+- #### Advanced Networking Demo series - Click link to view YouTube Playlist [https://goo.gle/AdvancedNetworking](https://goo.gle/AdvancedNetworking)  
+- #### Service-Centric Cross-Cloud network  - Click to view YouTube
+  
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=3sZq3xpsDKA" target="_blank">
+    <img src="https://img.youtube.com/vi/3sZq3xpsDKA/maxresdefault.jpg" width="50%" alt="Click to play video" />
+  </a>
+  <br />
+  
+</div> 
+
 - #### Cloud NGFW Enterprise Demo  - Click to view YouTube
   
 <div align="left">
@@ -77,6 +96,24 @@
 
 ---
 <div align="left">
+  <h2 style="color:#4285F4; ">📺 Rough cuts YouTube videos 2024
+     📺
+  </h2>
+</div>
+
+- #### Deploy NVIDIA NGC on Google Cloud  - Click to view YouTube
+  
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=Xe-IHdZc8A4" target="_blank">
+    <img src="https://img.youtube.com/vi/Xe-IHdZc8A4/maxresdefault.jpg" width="50%" alt="Click to play video" />
+  </a>
+  <br />
+  
+</div> 
+
+
+---
+<div align="left">
   <h2 style="color:#4285F4; ">👨‍💻 Hands-on labs - 2024
      👨‍💻
   </h2>
@@ -84,6 +121,15 @@
 
 <div class="tg-wrap"><table>
 <tbody>
+
+<tr>
+    <td> <h4> June </td>
+    <td> <img src="https://cdn.qwiklabs.com/gBIqI2nOpFcT7VugM8RvGUDpY2vDLNii%2BisheuVNAvs%3D" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://www.cloudskillsboost.google/focuses/92818?parent=catalog&utm_source=linkedin&utm_campaign=63ecde108fddb000013f06c7&utm_medium=smarpshare">
+    Integrate PSC and Service Directory </a> </h4>
+    </td>
+  </tr>
 
 <tr>
     <td> <h4> Jan </td>
@@ -115,6 +161,8 @@
     </br></br>
     <a href="https://cloud.google.com/architecture/ccn-distributed-apps-design/connectivity" target="_blank"> - Network segmentation and connectivity for distributed applications in Cross-Cloud Network </a>
      </br></br>
+     <a href="https://cloud.google.com/architecture/ccn-distributed-apps-design/service-networking" target="_blank"> - Service networking for distributed applications in Cross-Cloud Network </a>
+     </br></br>
     <a href="https://cloud.google.com/architecture/ccn-distributed-apps-design/connectivity" target="_blank"> - Network security for distributed applications in Cross-Cloud Network </a>
 </h4>
     </td>
@@ -129,6 +177,13 @@
      ✍️
   </h2>
 </div>
+
+- #### [Deploy NVIDIA NGC on Google Cloud config lab — run your AI workloads](https://medium.com/p/b8f860fcd6aa) 
+
+- #### [Google Cloud NGFW — starter kit (Learn more with simple steps)](https://medium.com/p/f10deb0d3611) 
+
+- #### [How to learn networking on Google Cloud — techventurers step by step guide](https://medium.com/google-cloud/how-to-learn-networking-on-google-cloud-techventurers-guide-351a724c87e9) 
+
 
 - #### [Networking in Google Cloud — Things to check out to catch up -’24 edition](https://medium.com/p/3e02b2ea1944) 
 
