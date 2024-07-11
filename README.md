@@ -74,6 +74,27 @@
 </div>
 
 - #### Advanced Networking Demo series - Click link to view YouTube Playlist [https://goo.gle/AdvancedNetworking](https://goo.gle/AdvancedNetworking)  
+
+- #### Cloud NAT and NGFWs  - Click to view YouTube
+  
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=SYDGjqZyk-M" target="_blank">
+    <img src="https://img.youtube.com/vi/SYDGjqZyk-M/maxresdefault.jpg" width="50%" alt="Click to play video" />
+  </a>
+  <br />
+  
+</div> 
+
+- #### Vertex AI networking patterns - PSC & Google APIs demo  - Click to view YouTube
+  
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=crpM1hXWaCA" target="_blank">
+    <img src="https://img.youtube.com/vi/crpM1hXWaCA/maxresdefault.jpg" width="50%" alt="Click to play video" />
+  </a>
+  <br />
+  
+</div> 
+
 - #### Service-Centric Cross-Cloud network  - Click to view YouTube
   
 <div align="left">
