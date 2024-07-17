@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://www.techinterviewhandbook.org/">
-    <img src="img/githubprofile.png" alt="hello banner" width="1200" />
+    <img src="img/devrel-1.gif" alt="hello banner" width="1200" />
   </a>
   <br />
   
@@ -35,6 +35,15 @@
 
 <div class="tg-wrap"><table>
 <tbody>
+<tr>
+    <td> <h4> July 16th </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-ccn-arch-hero.max-2500x2500.jpg" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/products/networking/network-distributed-applications-at-global-scale">
+    Cross-Cloud Network: Design global distributed applications at scale </a> </h4>
+    </td>
+  </tr>
+
 <tr>
     <td> <h4> May 2nd </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/1-matrix.max-1800x1800.png" alt="psc" width="150" /> </td>
