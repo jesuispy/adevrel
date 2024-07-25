@@ -84,11 +84,21 @@
 
 - #### Advanced Networking Demo series - Click link to view YouTube Playlist [https://goo.gle/AdvancedNetworking](https://goo.gle/AdvancedNetworking)  
 
+- #### VPC migration tool demo  - Click to view YouTube
+  
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=Seb5qF3IR9M" target="_blank">
+    <img src="https://i.ytimg.com/vi/Seb5qF3IR9M/sddefault.jpg" width="50%" alt="Click to play video" />
+  </a>
+  <br />
+  
+</div>
+
 - #### Cloud NAT and NGFWs  - Click to view YouTube
   
 <div align="left">
   <a href="https://www.youtube.com/watch?v=SYDGjqZyk-M" target="_blank">
-    <img src="https://img.youtube.com/vi/SYDGjqZyk-M/maxresdefault.jpg" width="50%" alt="Click to play video" />
+    <img src="https://i.ytimg.com/vi/SYDGjqZyk-M/maxresdefault.jpg" width="50%" alt="Click to play video" />
   </a>
   <br />
   
