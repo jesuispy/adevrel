@@ -1,7 +1,7 @@
 <h1 align="center">Hey, Ammett here. Checkout some of my Developer Advocate stuff</h1>
 
 <div align="center">
-  <a href="https://www.techinterviewhandbook.org/">
+  <a href="#">
     <img src="img/devrel-1.gif" alt="hello banner" width="1200" />
   </a>
   <br />
