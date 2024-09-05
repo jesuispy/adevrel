@@ -226,7 +226,7 @@
   </h2>
 </div>
 
-- #### [Access Anthropic Claude 3.5 Sonnet on Google Vertex AI via python SDK](https://medium.com/p/b8f860fcd6aa) 
+- #### [Access Anthropic Claude 3.5 Sonnet on Google Vertex AI via python SDK](https://medium.com/p/8bea11c479e0) 
 
 - #### [Deploy NVIDIA NGC on Google Cloud config lab — run your AI workloads](https://medium.com/p/b8f860fcd6aa) 
 
