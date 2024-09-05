@@ -36,6 +36,14 @@
 <div class="tg-wrap"><table>
 <tbody>
 <tr>
+    <td> <h4> August 15th </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/1_A5rJ0oE.max-2000x2000.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/products/networking/cloud-nat-and-cloud-ngfw-demos">
+    Advanced networking demos - Cloud NAT and NGFW edition </a> </h4>
+    </td>
+  </tr>
+<tr>
     <td> <h4> July 16th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-ccn-arch-hero.max-2500x2500.jpg" alt="psc" width="150" /> </td>
     <td> <h4>
@@ -217,6 +225,8 @@
      ✍️
   </h2>
 </div>
+
+- #### [Access Anthropic Claude 3.5 Sonnet on Google Vertex AI via python SDK](https://medium.com/p/8bea11c479e0) 
 
 - #### [Deploy NVIDIA NGC on Google Cloud config lab — run your AI workloads](https://medium.com/p/b8f860fcd6aa) 
 
