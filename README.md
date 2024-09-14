@@ -171,6 +171,15 @@
 <tbody>
 
 <tr>
+    <td> <h4> September </td>
+    <td> <img src="https://codelabs.developers.google.com/static/codelabs/anthropic-on-vertexai-psc/img/103967918b096e97_960.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://codelabs.developers.google.com/codelabs/anthropic-on-vertexai-psc?hl=en#0" target="_blank">
+    Access Anthropic Claude on Vertex AI with python sdk via Private Service Connect endpoint</a> </h4>
+    </td>
+  </tr>
+
+<tr>
     <td> <h4> June </td>
     <td> <img src="https://cdn.qwiklabs.com/gBIqI2nOpFcT7VugM8RvGUDpY2vDLNii%2BisheuVNAvs%3D" alt="psc" width="150" /> </td>
     <td> <h4>
