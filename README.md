@@ -64,7 +64,7 @@
 
 <tr>
     <td> <h4> Feb 27th </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_3Z7Xc6t.max-2500x2500.jpg" alt="psc" width="150" /> </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/1-ccn-net.max-1400x1400.jpg" alt="psc" width="150" /> </td>
     <td> <h4>
       <a href="https://cloud.google.com/blog/products/networking/connect-google-cloud-to-on-prem-and-other-clouds">
     Cross-Cloud Network: Private, customizable and flexible networking </a> </h4>
@@ -142,6 +142,16 @@
   
 </div>
 
+- #### Application Awareness over Interconnect Demo  - Click to view YouTube
+  
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=R9kbyeRO0lE" target="_blank">
+    <img src="https://img.youtube.com/vi/R9kbyeRO0lE/maxresdefault.jpg" width="50%" alt="Click to play video" />
+  </a>
+  <br />
+  
+</div>
+
 ---
 <div align="left">
   <h2 style="color:#4285F4; ">📺 Rough cuts YouTube videos 2024
@@ -169,6 +179,15 @@
 
 <div class="tg-wrap"><table>
 <tbody>
+
+<tr>
+    <td> <h4> October </td>
+    <td> <img src="https://codelabs.developers.google.com/static/codelabs/terraform-python-vertexai-psc/img/8b283cc5684283c2_1920.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://codelabs.developers.google.com/codelabs/terraform-python-vertexai-psc" target="_blank">
+    Access Gemini chat with python sdk via Private Service Connect endpoint</a> </h4>
+    </td>
+  </tr>
 
 <tr>
     <td> <h4> September </td>
@@ -306,7 +325,7 @@
   </tr>
   <tr>
     <td> <h4> Oct 11th </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_2023.max-2500x2500.jpg" alt="psc" width="150" /> </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/1-on-premises-cci.max-2200x2200.png" alt="psc" width="150" /> </td>
     <td> <h4>
       <a target="_blank" href="https://cloud.google.com/blog/products/networking/hybrid-and-multicloud-network-architectures">
     Connecting hybrid and multicloud workloads - Networking Architecture </a> </h4>
