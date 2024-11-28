@@ -181,6 +181,16 @@
 <tbody>
 
 <tr>
+    <td> <h4> November </td>
+    <td> <img src="https://codelabs.developers.google.com/static/codelabs/cloudsql-psc-terraform/img/1893f48fe1298ea2_1920.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://codelabs.developers.google.com/codelabs/cloudsql-psc-terraform" target="_blank">
+    Connecting to CloudSQL via Private Service Connect with (Terraform)</a> </h4>
+    </td>
+  </tr>
+
+
+<tr>
     <td> <h4> October </td>
     <td> <img src="https://codelabs.developers.google.com/static/codelabs/terraform-python-vertexai-psc/img/8b283cc5684283c2_1920.png" alt="psc" width="150" /> </td>
     <td> <h4>
