@@ -243,7 +243,13 @@
 </h4>
     </td>
   </tr>
- 
+ <tr>
+     <td> <img src="https://cloud.google.com/static/architecture/images/ccn-distributed-apps-design/ccn-vnp-vpn-flows.svg" alt="ccn vpn" width="200" /> </td>
+    <td><h4>Cross-Cloud Network Architecture Center - patterns </br></br><a href="https://cloud.google.com/architecture/ccn-distributed-apps-design/ccn-vnp-vpn-ra?utm_campaign=63ecde108fddb000013f06c7&utm_content=6747502a5b3fd00001a0775e&utm_medium=smarpshare&utm_source=linkedin" target="_blank">- Cross-Cloud Network inter-VPC connectivity using VPC Network Peering </a>
+    
+</h4>
+    </td>
+  </tr>
   
 </tbody>
 </table></div>
