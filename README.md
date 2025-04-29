@@ -19,13 +19,140 @@
 
 
 
-## Hello, What?
+## Hello!
 
 ### Hi, I'm a Developer Advocate, specifically a Developer Relations Engineer!
 
 ### I do a lot of stuff so here is where you can see some of stuff I did in one place.
+---
+## 2025 - Content ⬇️⬇️⬇️
 
-## 2024 - Content
+<div align="left">
+  <h2 style="color:#4285F4; ">💡 Google Cloud Blog Site - 2025
+     💡
+  </h2>
+</div>
+
+<div class="tg-wrap"><table>
+<tbody>
+
+<tr>
+    <td> <h4> March 19th </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-hero-roce.max-2500x2500.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/products/networking/rdma-rocev2-for-ai-workloads-on-google-cloud">
+    Using RDMA over Converged Ethernet networking for AI on Google Cloud</a> </h4>
+    </td>
+  </tr>
+
+
+<tr>
+    <td> <h4> Feb 26th </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-hero.max-2500x2500.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/products/networking/inter-network-communication-design-with-ncc-vpc-peering">
+    Inter-VPC connectivity architecture patterns in Cross-Cloud Network </a> </h4>
+    </td>
+  </tr>
+
+<tr>
+    <td> <h4> Feb 10th </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-hero-hpc.max-2500x2500.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/products/networking/cross-cloud-network-solutions-support-for-ai-workloads">
+    Networking support for AI workloads </a> </h4>
+    </td>
+  </tr>
+  
+</tbody>
+</table></div>
+
+---
+<div align="left">
+  <h2 style="color:#4285F4; ">📺 YouTube videos 2025
+     📺
+  </h2>
+</div>
+
+
+
+- #### Cross-Site Interconnect Demo  - Click to view YouTube
+  
+<div align="left">
+  <a href="https://www.youtube.com/watch?v=XzGU02ycSvc" target="_blank">
+    <img src="https://img.youtube.com/vi/XzGU02ycSvc/maxresdefault.jpg" width="50%" alt="Click to play video" />
+  </a>
+  <br />
+  
+</div>
+
+
+
+---
+<div align="left">
+  <h2 style="color:#4285F4; ">👨‍💻 Hands-on labs - 2025
+     👨‍💻
+  </h2>
+</div>
+
+<div class="tg-wrap"><table>
+<tbody>
+
+<tr>
+    <td> <h4> January </td>
+    <td> <img src="https://codelabs.developers.google.com/static/codelabs/psc-psa-cloudsql-terraform/img/e0e0f83704cc9d62_1920.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://codelabs.developers.google.com/codelabs/psc-psa-cloudsql-terraform" target="_blank">
+    Enable Private Service Connect on existing Cloud SQL instance running PSA (Terraform)</a> </h4>
+    </td>
+  </tr>
+
+  
+</tbody>
+</table>
+</div>
+
+---
+
+<div align="left">
+  <h2 style="color:#4285F4; ">📜 Technical Papers / Architecture Docs - 2025
+     📜
+  </h2>
+</div>
+
+
+<div class="tg-wrap"><table>
+<tbody>
+  <tr>
+     <td> <img src="https://cloud.google.com/static/architecture/images/ccn-distributed-apps-design/ccn-ncc-vpn-ra-flows.svg" alt="ace" width="200" /> </td>
+    <td><h4>Cross-Cloud Network Architecture Center </br></br>
+    <a href="https://cloud.google.com/architecture/ccn-distributed-apps-design/ccn-ncc-vpn-ra" target="_blank">📖 Cross-Cloud Network inter-VPC connectivity using Network Connectivity Center </a>
+    </br></br>
+    
+</h4>
+    </td>
+  </tr>
+ 
+  
+</tbody>
+</table></div>
+
+<div align="left">
+  <h2 style="color:#0F9D58; ">✍️ Medium publication Blog - 2025
+     ✍️
+  </h2>
+</div>
+
+- #### [Google Cloud WAN — 5 + resources all Cloud Architects should check out](https://medium.com/p/47a1c9140dc5) 
+
+- #### [Networking in Google Cloud — Monthly catch up -’2025 edition (monthly updates)](https://medium.com/p/b961880ee46c) 
+
+- #### [Connecting to Cloud SQL via Private Service Connect — Private connectivity made easy](https://medium.com/p/943c7ad3d62d) 
+
+----
+
+----
+## 2024 - Content ⬇️⬇️⬇️
 
 <div align="left">
   <h2 style="color:#4285F4; ">💡 Google Cloud Blog Site - 2024
@@ -284,283 +411,6 @@
 - #### [Networking in Google Cloud — Things to check out to catch up -’24 edition](https://medium.com/p/3e02b2ea1944) 
 
 - #### [Google Cloud HA VPN to Compute Engine VM (NVA) config lab with VyOS](https://medium.com/p/a447624849da) 
----
-## 2023 - Content 
-<div align="left">
-  <h2 style="color:#4285F4; ">💡 YouTube videos
-     💡
-  </h2>
-</div>
-
-- #### Advanced Networking Demo series - Click link to view YouTube Playlist [https://goo.gle/AdvancedNetworking](https://goo.gle/AdvancedNetworking) 
-- #### Cross-Cloud Interconnect demo 2  - Click to view YouTube
-  
-<div align="left">
-  <a href="https://www.youtube.com/watch?v=W-fVLyCQ2kA" target="_blank">
-    <img src="https://img.youtube.com/vi/W-fVLyCQ2kA/maxresdefault.jpg" width="50%" alt="Click to play video" />
-  </a>
-  <br />
-  
-</div>
-
-
----
-
-<div align="left">
-  <h2 style="color:#4285F4; ">💡 Google Cloud Blog Site
-     💡
-  </h2>
-</div>
-
----
-
-
-## 2023
 
 
 
-<div class="tg-wrap"><table>
-<tbody>
-
-<tr>
-    <td> <h4> Dec 21st </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/duet_ai_response.max-1900x1900.png" alt="psc" width="150" /> </td>
-    <td> <h4>
-      <a href="https://cloud.google.com/blog/products/ai-machine-learning/get-ai-help-on-networking-tasks">
-    Explain and customize cloud networking with Duet AI </a> </h4>
-    </td>
-  </tr>
-
-<tr>
-    <td> <h4> Dec 12th </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/advance_networking_demos.max-2500x2500.jpg" alt="psc" width="150" /> </td>
-    <td> <h4>
-      <a href="https://cloud.google.com/blog/products/networking/advanced-networking-demos-firewall-plus-ncc-vpc-spokes-and-nfo">
-    Advanced Networking Demos Cloud Firewall Plus, NCC VPC spokes & NFO edition </a> </h4>
-    </td>
-  </tr>
-  <tr>
-    <td> <h4> Oct 11th </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/1-on-premises-cci.max-2200x2200.png" alt="psc" width="150" /> </td>
-    <td> <h4>
-      <a target="_blank" href="https://cloud.google.com/blog/products/networking/hybrid-and-multicloud-network-architectures">
-    Connecting hybrid and multicloud workloads - Networking Architecture </a> </h4>
-    </td>
-  </tr>
-  
-  <tr>
-    <td> <h4> August 9th </td>
-    <td> <img src="https://img.youtube.com/vi/W-fVLyCQ2kA/maxresdefault.jpg" alt="cci" width="150" /> </td>
-    <td> <h4>
-      <a target="_blank" href="https://cloud.google.com/blog/products/networking/advanced-networking-demos-cross-cloud-interconnect">
-    Advanced Networking Demo videos — Cross-Cloud Interconnect edition </a> </h4>
-    </td>
-  </tr>
-  <tr>
-    <td> <h4> July 19th </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/psc-hero.max-2500x2500.jpg" alt="ilb" width="150" /> </td>
-    <td> <h4>
-      <a target="_blank" href="https://cloud.google.com/blog/products/networking/three-consumer-private-service-connect-designs">
-    Three Private Service Connect patterns - Networking basics </a> </h4>
-    </td>
-  </tr>
-
-  <tr>
-    <td> <h4> June 27th </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_462D2f7.max-2000x2000.jpg" alt="ilb" width="150" /> </td>
-    <td> <h4>
-      <a href="https://cloud.google.com/blog/products/networking/networking-101-google-cloud-reference-sheet-version-2" target="_blank">
-    Networking 101 Google Cloud reference sheet 2023 v2 </a> </h4>
-    </td>
-  </tr>
-  <tr>
-    <td> <h4> June 9th </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/ilb-hero.max-2500x2500.jpg" alt="ilb" width="150" /> </td>
-    <td> <h4>
-      <a href="https://cloud.google.com/blog/products/networking/load-balancing-inside-public-cloud-options-and-optimizations" target="_blank">
-    Designing Multi-regional Internal Load Balancing with Google Cloud iLB + Cloud DNS </a> </h4>
-    </td>
-  </tr>
-  <tr>
-    <td> <h4> May 31st </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/esg-hero.max-2800x2800.jpg" alt="img" width="150" /> </td>
-    <td><h4>
-    <a href="https://cloud.google.com/blog/products/networking/the-economic-advantages-of-google-cloud-networking" target="_blank"> 
-  The economic advantages of Google Cloud Networking</a> </h4>
-  </td>
-  </tr>
-  <tr>
-    <td> <h4> May 3rd </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_2022_b3vo6c3.max-2800x2800.jpg" alt="ilb" width="150
-    " /> </td>
-    <td> <h4>
-<a href="https://cloud.google.com/blog/products/networking/architecture-best-practices-for-internet-apps-and-services" target="_blank"> 
-  Internet-facing application delivery
-  </a></td>
-  </tr>
-  <tr>
-    <td> <h4> April 25th </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/advance_networking.max-2500x2500.jpg" alt="ilb" width="150
-    " /> </td>
-    <td> <h4>
-<a href="https://cloud.google.com/blog/products/networking/introducing-the-advanced-networking-demo-video-series" target="_blank"> 
-  Introducing the Advanced Networking Demo video series
-  </a></h4></td>
-  </tr>
-  <tr>
-    <td> <h4> March 13th </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/Service_Directory.max-2800x2800.jpg" alt="ilb" width="150
-    " /> </td>
-    <td> <h4>
-<a href="https://cloud.google.com/blog/products/networking/reasons-to-use-service-directory-inside-google-cloud" target="_blank"> 
-  Six benefits of using Service Directory in your environment
-  </a></td>
-  </tr>
-  <tr>
-    <td> <h4> January 9th </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/networking_2022.max-2500x2500.jpg" alt="ilb" width="150
-    " /> </td>
-    <td> <h4>
-<a href="https://cloud.google.com/blog/topics/developers-practitioners/two-networking-patterns-secure-intra-cloud-access" target="_blank"> 
-  Two networking patterns for secure intra-cloud access
-  </a></td>
-  </tr>
-</tbody>
-</table></div>
-
-
-## 2022
----
-<div class="tg-wrap"><table>
-<tbody>
-  <tr>
-    <td> <h4> Nov 7 </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/cloud_armor.max-2600x2600.png" alt="ilb" width="150
-    " /> </td>
-    <td> <h4>
-<a href="https://cloud.google.com/blog/topics/developers-practitioners/when-should-i-use-cloud-armor" target="_blank"> 
-    When should I use Cloud Armor
-  </a></td>
-  <td> <h4> October 7 </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/blocks.max-1600x1600.png" alt="ilb" width="150
-    " /> </td>
-    <td> <h4>
-<a href="https://cloud.google.com/blog/topics/developers-practitioners/6-building-blocks-cloud-networking-networking-architecture" target="_blank"> 
-    6 Building blocks for cloud networking
-  </a></td>
-  </tr>
-<tr>
-    <td> <h4> August 17 </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/k8net.png" alt="ilb" width="150
-    " /> </td>
-    <td> <h4>
-<a href="https://cloud.google.com/blog/topics/developers-practitioners/understanding-basic-networking-gke-networking-basics" target="_blank"> 
-    Understanding basic networking in GKE 
-  </a></td>
-  <td> <h4> July 29 </td>
-    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/GCLB_8.max-2000x2000.png" alt="ilb" width="150
-    " /> </td>
-    <td> <h4>
-<a href="https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-global-external-https-load-balancer-deep-dive" target="_blank"> 
-    Google Cloud Global External HTTP(S) Load Balancer - Deep Dive
-  </a></td>
-  </tr>
-</tbody>
-</table></div>
-
----
-
-<div align="left">
-  <h2 style="color:#0F9D58; ">💡 Google Cloud Medium publication Blog Site
-     💡
-  </h2>
-</div>
-
----
-
-
-## 2023
-
-- #### [Preparing for the “New” Google Cloud Professional Cloud DevOps Engineer Exam — 2023 +](https://medium.com/google-cloud/preparing-for-the-new-google-cloud-professional-cloud-devops-engineer-exam-2023-20c4af9d1332) 
-
-- #### [Google Cloud Cross-Cloud Interconnect: Almost everything you need to know](https://medium.com/google-cloud/google-cloud-cross-cloud-interconnect-almost-everything-you-need-to-know-305bb3757f9e) 
-
-- #### [7 learning challenges to help you learn Google Cloud today](https://medium.com/google-cloud/7-learning-challenges-to-help-you-learn-google-cloud-today-970fb252b9ad) 
-
-- #### [10 DevOps & SRE resources everyone should check out](https://medium.com/google-cloud/10-devops-sre-resources-everyone-should-check-out-36de439b776d) 
-- #### [Preparing for success with Google Cloud Professional Cloud Database Engineer Exam](https://medium.com/google-cloud/preparing-for-success-with-google-cloud-professional-cloud-database-engineer-exam-2023-3ad33fa3eea9)
-
----
-<div align="left">
-  <h2 style="color:#4285F4; ">📜 Technical Papers / Architecture Docs -2023
-     📜
-  </h2>
-</div>
-
-
-<div class="tg-wrap"><table>
-<tbody>
-  <tr>
-     <td> <img src="https://cloud.google.com/static/architecture/images/ccn-distributed-apps-design/ccn-1a.svg" alt="ace" width="200" /> </td>
-    <td><h4>Architecture Documentation </br></br><a href="https://cloud.google.com/architecture/partners/fortigate-architecture-in-cloud" target="_blank">- FortiGate architecture in Google Cloud </a>
-    </br></br>
-    <a href="https://cloud.google.com/architecture/hybrid-multicloud-patterns/one-page-view" target="_blank"> - Build hybrid and multicloud architectures using Google Cloud </a>
-     </br></br>
-    <a href="https://cloud.google.com/architecture/hybrid-multicloud-patterns-and-practices/one-page-view" target="_blank"> - Hybrid and multicloud architecture patterns</a>
-     </br></br>
-    <a href="https://cloud.google.com/architecture/hybrid-multicloud-secure-networking-patterns/one-page-view" target="_blank"> - Hybrid and multicloud secure networking architecture patterns</a>
-</h4>
-    </td>
-  </tr>
- 
-  
-</tbody>
-</table></div>
-
-----
-<div align="left">
-  <h2 style="color:#F4B400; ">💡 Labs 2023
-     💡
-  </h2>
-</div>
-
-
-
-- #### Labs on dual stack Google Cloud networks | [IP addressing options IPv4 and IPv6](https://codelabs.developers.google.com/codelabs/ipv4-ipv6-addressing#0) 
-
-- #### Duet AI in Google Cloud learning path | [Duet AI for Network Engineers](https://www.cloudskillsboost.google/paths/236/course_templates/884) 
----
-
-<div align="left">
-  <h2 style="color:#4285F4; ">💡 Books
-     💡
-  </h2>
-</div>
-
----
-
-## 2023
-
-<div class="tg-wrap"><table>
-<tbody>
-  <tr>
-     <td> <img src="https://books.google.ca/books/publisher/content?id=YcirEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0HS8z2A9voe0oyvOavuLanKTFsrg&w=1280" alt="ace" width="200" /> </td>
-    <td><h4>Technical Editor <a href="https://www.google.ca/books/edition/Google_Cloud_Certified_Associate_Cloud_E/YcirEAAAQBAJ?hl=en&gbpv=0" target="_blank">     Associate Cloud Engineer Study Guide second edition
-  </a></td>
-  </tr>
- 
-  
-</tbody>
-</table></div>
-
-## 2022
-
-<div class="tg-wrap"><table>
-<tbody>
-    <tr>
-    <td> <img src="https://books.google.ca/books/publisher/content?id=3YJlEAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U25Xhh6TCAuEhPhIaC758cf7FhgEQ&w=1280" alt="pca" width="200" /> </td>
-    <td><h4>Technical Editor <a href="https://www.google.ca/books/edition/Google_Cloud_Certified_Professional_Clou/3YJlEAAAQBAJ?hl=en&gbpv=0" target="_blank">     Google Cloud Certified Professional Cloud Architect Study Guide second edition </a></td>
-  </tr>
-  
-</tbody>
-</table></div>
