@@ -37,6 +37,15 @@
 <tbody>
 
 <tr>
+    <td> <h4> June 30th </td>
+    <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/net-101-25.max-2500x2500.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-networking-101-quick-reference-guide?e=0">
+    Google Cloud Networking 101: Quick Reference Guide</a> </h4>
+    </td>
+  </tr>
+
+<tr>
     <td> <h4> March 19th </td>
     <td> <img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-hero-roce.max-2500x2500.png" alt="psc" width="150" /> </td>
     <td> <h4>
@@ -98,6 +107,23 @@
 <div class="tg-wrap"><table>
 <tbody>
 
+
+<tr>
+    <td> <h4> August </td>
+    <td> <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*sC4iv6ZwNVE8KcIib48wxw.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://cloud.google.com/ai-hypercomputer/docs/tutorials/vllm-gke-llama4" target="_blank">
+    Use vLLM on GKE to run inference with Llama 4 (Google Doc)</a> </h4>
+    </td>
+  </tr>
+<tr>
+    <td> <h4> July </td>
+    <td> <img src="https://codelabs.developers.google.com/static/codelabs/terraform-gemini-cli-gce-psc/img/809ec92718405b07_1920.png" alt="psc" width="150" /> </td>
+    <td> <h4>
+      <a href="https://codelabs.developers.google.com/codelabs/terraform-gemini-cli-gce-psc" target="_blank">
+    Gemini CLI on GCE with a Private Service Connect endpoint</a> </h4>
+    </td>
+  </tr>
 <tr>
     <td> <h4> January </td>
     <td> <img src="https://codelabs.developers.google.com/static/codelabs/psc-psa-cloudsql-terraform/img/e0e0f83704cc9d62_1920.png" alt="psc" width="150" /> </td>
@@ -133,7 +159,6 @@
     </td>
   </tr>
  
-  
 </tbody>
 </table></div>
 
@@ -143,12 +168,19 @@
   </h2>
 </div>
 
+- #### [Inferencing — Serve Llama 4 on A4 (B200 GPUs) using vLLM and GKE](https://medium.com/p/a653fbdfd4c4) 
+
+- #### [Part III — Deploy Gemma workloads on A3 Ultra with H200 GPUs on GKE : Inferencing](https://medium.com/p/b06be2e0c462) 
+
+- #### [Part II— RoCEv2 VPC deployment on Google Cloud : (2) Steps and Choices?](https://medium.com/p/cbd40c41dbd1) 
+
+- #### [Part I - RoCEv2 for optimized GPU AI workloads on Google Cloud : (1) Why it matters?](https://medium.com/p/37412afc57e1) 
+
 - #### [Google Cloud WAN — 5 + resources all Cloud Architects should check out](https://medium.com/p/47a1c9140dc5) 
 
 - #### [Networking in Google Cloud — Monthly catch up -’2025 edition (monthly updates)](https://medium.com/p/b961880ee46c) 
 
-- #### [Connecting to Cloud SQL via Private Service Connect — Private connectivity made easy](https://medium.com/p/943c7ad3d62d) 
-
+- #### [Connecting to Cloud SQL via Private Service Connect — Private connectivity made easy](https://medium.com/p/943c7ad3d62d)
 ----
 
 ----
