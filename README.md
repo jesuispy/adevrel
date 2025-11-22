@@ -47,12 +47,12 @@ I do a lot of stuff so here is where you can see some of stuff I did in one plac
   </thead>
   <tbody>
 <tr>
-      <td align="center"><b>June 30th</b></td>
+      <td align="center"><b>Nov 4th</b></td>
       <td><img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-way-ai-hero.max-2500x2500.png" width="180" /></td>
       <td><a href="https://cloud.google.com/blog/products/networking/how-google-cloud-networking-supports-your-ai-workloads"><b>7 ways networking powers your AI workloads on Google Cloud</b></a></td>
     </tr>
     <tr>
-      <td align="center"><b>October 30th</b></td>
+      <td align="center"><b>October 23rd</b></td>
       <td><img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-ccn-nva-doc-hero.max-2500x2500.png" width="180" /></td>
       <td><a href="https://cloud.google.com/blog/topics/developers-practitioners/design-cross-cloud-network-vpc-network-peering-with-nvas-and-regional-affinity"><b>Design Cross-Cloud Network VPC Network Peering with NVAs and Regional Affinity</b></a></td>
     </tr>
