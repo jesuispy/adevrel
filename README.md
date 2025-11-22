@@ -35,7 +35,7 @@ I do a lot of stuff so here is where you can see some of stuff I did in one plac
 
 ## 📅 2025 - Content ⬇️⬇️⬇️
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="30"/> <span style="color:#4285F4;">Google Cloud Blog Site</span>
+### <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="100"/> <span style="color:#4285F4;"> -- Official Google Cloud Blog Site --</span>
 
 <table>
   <thead>
@@ -46,6 +46,16 @@ I do a lot of stuff so here is where you can see some of stuff I did in one plac
     </tr>
   </thead>
   <tbody>
+<tr>
+      <td align="center"><b>June 30th</b></td>
+      <td><img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-way-ai-hero.max-2500x2500.png" width="180" /></td>
+      <td><a href="https://cloud.google.com/blog/products/networking/how-google-cloud-networking-supports-your-ai-workloads"><b>7 ways networking powers your AI workloads on Google Cloud</b></a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>October 30th</b></td>
+      <td><img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-ccn-nva-doc-hero.max-2500x2500.png" width="180" /></td>
+      <td><a href="https://cloud.google.com/blog/topics/developers-practitioners/design-cross-cloud-network-vpc-network-peering-with-nvas-and-regional-affinity"><b>Design Cross-Cloud Network VPC Network Peering with NVAs and Regional Affinity</b></a></td>
+    </tr>
     <tr>
       <td align="center"><b>June 30th</b></td>
       <td><img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/net-101-25.max-2500x2500.png" width="180" /></td>
@@ -82,7 +92,7 @@ I do a lot of stuff so here is where you can see some of stuff I did in one plac
   </a>
 </td>
 <td width="50%" align="center">
-  <i>More coming soon...</i>
+  <i>Loading... 🤖 </i>
 </td>
 </tr>
 </table>
@@ -100,19 +110,35 @@ I do a lot of stuff so here is where you can see some of stuff I did in one plac
     </tr>
   </thead>
   <tbody>
+  
+  <tr>
+      <td align="center"><b>September</b></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/GCP-1.png" width="70" alt="Google Cloud" /></td>
+      <td><a href="https://docs.cloud.google.com/ai-hypercomputer/docs/tutorials/deepseek-vllm-inference" target="_blank"><b>Use vLLM on GKE to run inference with DeepSeek-V3.1-Base</b></a></td>
+  </tr>  
+    <tr>
+      <td align="center"><b>September</b></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/GCP-1.png" width="70" alt="Google Cloud" /></td>
+      <td><a href="https://docs.cloud.google.com/ai-hypercomputer/docs/tutorials/gpt-oss-vllm-inference" target="_blank"><b>Use vLLM on GKE to run inference with gpt-oss-120b</b></a></td>
+    </tr>
+  <tr>
+      <td align="center"><b>August</b></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/GCP-1.png" width="70" alt="Google Cloud" /></td>
+      <td><a href="https://docs.cloud.google.com/ai-hypercomputer/docs/tutorials/qwen3-vllm-inference" target="_blank"><b>Use vLLM on GKE to run inference with Qwen3</b></a></td>
+  </tr>  
     <tr>
       <td align="center"><b>August</b></td>
-      <td><img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*sC4iv6ZwNVE8KcIib48wxw.png" width="180" /></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/GCP-1.png" width="70" alt="Google Cloud" /></td>
       <td><a href="https://cloud.google.com/ai-hypercomputer/docs/tutorials/vllm-gke-llama4" target="_blank"><b>Use vLLM on GKE to run inference with Llama 4 (Google Doc)</b></a></td>
     </tr>
     <tr>
       <td align="center"><b>July</b></td>
-      <td><img src="https://codelabs.developers.google.com/static/codelabs/terraform-gemini-cli-gce-psc/img/809ec92718405b07_1920.png" width="180" /></td>
+      <td><img src="https://codelabs.developers.google.com/static/codelabs/terraform-gemini-cli-gce-psc/img/809ec92718405b07_1920.png" width="120" /></td>
       <td><a href="https://codelabs.developers.google.com/codelabs/terraform-gemini-cli-gce-psc" target="_blank"><b>Gemini CLI on GCE with a Private Service Connect endpoint</b></a></td>
     </tr>
     <tr>
       <td align="center"><b>January</b></td>
-      <td><img src="https://codelabs.developers.google.com/static/codelabs/psc-psa-cloudsql-terraform/img/e0e0f83704cc9d62_1920.png" width="180" /></td>
+      <td><img src="https://codelabs.developers.google.com/static/codelabs/psc-psa-cloudsql-terraform/img/e0e0f83704cc9d62_1920.png" width="120" /></td>
       <td><a href="https://codelabs.developers.google.com/codelabs/psc-psa-cloudsql-terraform" target="_blank"><b>Enable Private Service Connect on existing Cloud SQL instance running PSA (Terraform)</b></a></td>
     </tr>
   </tbody>
@@ -133,6 +159,14 @@ I do a lot of stuff so here is where you can see some of stuff I did in one plac
         </ul>
       </td>
     </tr>
+  <tr>
+      <td width="220"><img src="https://docs.cloud.google.com/static/architecture/images/ccn-distributed-apps-design/ccn-vnp-nva-connections.svg" alt="ace" width="200" /></td>
+      <td>
+          <ul>
+          <li><a href="https://docs.cloud.google.com/architecture/ccn-distributed-apps-design/ccn-nva-ra" target="_blank">📖 VPC Network Peering Cross-Cloud Network with NVAs and regional affinity</a></li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -140,6 +174,11 @@ I do a lot of stuff so here is where you can see some of stuff I did in one plac
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30"/> <span style="color:#0F9D58;">Medium Publication Blog</span>
 
+* [Prepare for the Google Professional Cloud Security Engineer Exam — 2025+](https://medium.com/p/42ec3743f97a)
+* [Configure Gemini CLI on Google Compute Engine (GCE) with private connectivity](https://medium.com/p/6aee6be206a9)
+* [AI Inferencing — Serve DeepSeek v3.1 Base on Google Cloud A4 (B200 GPUs) using vLLM and GKE](https://medium.com/p/8da16c8dc689)
+* [AI/Infra — Serve gpt-oss-120b on Google Cloud A4 (B200 GPUs) using vLLM and GKE](https://medium.com/p/04e42535facc)
+* [AI/Infra Inferencing — Serve Qwen 3 235B Thinking on Google Cloud A4 (B200 GPUs) using vLLM and GKE](https://medium.com/p/a7dc7ec03883)
 * [Inferencing — Serve Llama 4 on A4 (B200 GPUs) using vLLM and GKE](https://medium.com/p/a653fbdfd4c4)
 * [Part III — Deploy Gemma workloads on A3 Ultra with H200 GPUs on GKE : Inferencing](https://medium.com/p/b06be2e0c462)
 * [Part II— RoCEv2 VPC deployment on Google Cloud : (2) Steps and Choices?](https://medium.com/p/cbd40c41dbd1)
