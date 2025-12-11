@@ -92,7 +92,10 @@ I do a lot of stuff so here is where you can see some of stuff I did in one plac
   </a>
 </td>
 <td width="50%" align="center">
-  <i>Loading... 🤖 </i>
+   <b>NSI Demo with Palo Alto</b><br>
+  <a href="https://www.youtube.com/watch?v=s2MJ5WDk8y8" target="_blank">
+    <img src="https://img.youtube.com/vi/s2MJ5WDk8y8/maxresdefault.jpg" width="100%" alt="Play Video" />
+  </a>
 </td>
 </tr>
 </table>
@@ -110,7 +113,21 @@ I do a lot of stuff so here is where you can see some of stuff I did in one plac
     </tr>
   </thead>
   <tbody>
-  
+   <tr>
+      <td align="center"><b>December</b></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/GCP-1.png" width="70" alt="Google Cloud" /></td>
+      <td><a href="https://docs.cloud.google.com/ai-hypercomputer/docs/tutorials/vllm-gke-deepseek-speciale" target="_blank"><b>Use vLLM on GKE to run inference with DeepSeek-V3.2-Speciale</b></a></td>
+  </tr> 
+  <tr>
+      <td align="center"><b>December</b></td>
+      <td><img src="https://codelabs.developers.google.com/static/codelabs/anthropic-on-vertexai-psc/img/c8f37e193349bfd6_1920.png" width="120" alt="Google Cloud" /></td>
+      <td><a href="https://google.smh.re/5I5U" target="_blank"><b>Anthropic Claude Opus 4.5 & Gemini 3 on Vertex AI with python sdk via Private Service Connect endpoint</b></a></td>
+  </tr> 
+<tr>
+      <td align="center"><b>November</b></td>
+      <td><img src="https://codelabs.developers.google.com/static/codelabs/terraform-python-vertexai-psc/img/304c579d349aec90_1920.png" width="120" alt="Google Cloud" /></td>
+      <td><a href="https://google.smh.re/5IRb" target="_blank"><b>Access Gemini 3 Pro chat using python sdk via Private Service Connect endpoint</b></a></td>
+  </tr> 
   <tr>
       <td align="center"><b>September</b></td>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/GCP-1.png" width="70" alt="Google Cloud" /></td>
@@ -174,6 +191,7 @@ I do a lot of stuff so here is where you can see some of stuff I did in one plac
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30"/> <span style="color:#0F9D58;">Medium Publication Blog</span>
 
+* [Inference DeepSeek v3.2-Speciale— GKE, vLLM, A4 VM with B200 GPUs](https://medium.com/p/dc62ee4dc59c)
 * [Prepare for the Google Professional Cloud Security Engineer Exam — 2025+](https://medium.com/p/42ec3743f97a)
 * [Configure Gemini CLI on Google Compute Engine (GCE) with private connectivity](https://medium.com/p/6aee6be206a9)
 * [AI Inferencing — Serve DeepSeek v3.1 Base on Google Cloud A4 (B200 GPUs) using vLLM and GKE](https://medium.com/p/8da16c8dc689)
