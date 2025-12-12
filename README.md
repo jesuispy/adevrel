@@ -21,7 +21,7 @@
 ---
 
 ### Hi, I'm a Developer Advocate, specifically a Developer Relations Engineer!
-I do a lot of stuff so here is where you can see some of stuff I did in one place.
+I do and contribute to a lot of stuff so here is where you can see some of the stuff in one place.
 
 <div align="center">
 
@@ -167,6 +167,15 @@ I do a lot of stuff so here is where you can see some of stuff I did in one plac
 
 <table>
   <tbody>
+   <tr>
+      <td width="220"><img src="https://docs.cloud.google.com/static/architecture/images/private-connectivity-rag-capable-gen-ai-apps.svg" alt="ace" width="200" /></td>
+      <td>
+        <h4>Generative AI with RAG</h4>
+        <ul>
+          <li><a href="https://docs.cloud.google.com/architecture/private-connectivity-rag-capable-gen-ai?utm_campaign=CDR_0x78e4a6e6_default_b452960864&utm_medium=external&utm_source=social" target="_blank">📖 Private connectivity for RAG-capable generative AI applications</a></li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td width="220"><img src="https://cloud.google.com/static/architecture/images/ccn-distributed-apps-design/ccn-ncc-vpn-ra-flows.svg" alt="ace" width="200" /></td>
       <td>
