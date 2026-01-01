@@ -27,11 +27,14 @@ I do and contribute to a lot of stuff so here is where you can see some of the s
 
 | ⚡ Quick Navigation |
 | :---: |
-| [**Jump to 2025 Content**](#-2025---content-%EF%B8%8F%EF%B8%8F%EF%B8%8F) • [**Jump to 2024 Content**](#-2024---content-%EF%B8%8F%EF%B8%8F%EF%B8%8F) |
+| [**Recent 2026 Content**](#-2026---content-%EF%B8%8F%EF%B8%8F%EF%B8%8F) •[**Jump to 2025 Content**](#-2025---content-%EF%B8%8F%EF%B8%8F%EF%B8%8F) • [**Jump to 2024 Content**](#-2024---content-%EF%B8%8F%EF%B8%8F%EF%B8%8F) |
 
 </div>
 
 ---
+## 🗓️ 2026 - Content ⬇️⬇️⬇️
+
+Coming soon ....
 
 ## 📅 2025 - Content ⬇️⬇️⬇️
 
