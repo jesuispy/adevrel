@@ -34,7 +34,88 @@ I do and contribute to a lot of stuff so here is where you can see some of the s
 ---
 ## 🗓️ 2026 - Content ⬇️⬇️⬇️
 
-Coming soon ....
+### <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="100"/> <span style="color:#4285F4;"> -- Official Google Cloud Blog Site --</span>
+
+<table>
+  <thead>
+    <tr>
+      <th width="120">Date</th>
+      <th width="200">Thumbnail</th>
+      <th>Title & Link</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+      <td align="center"><b>April 8th</b></td>
+      <td><img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-hero-dranet.max-2500x2500.png" width="180" /></td>
+      <td><a href="https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-gpus-gke-managed-dranet-and-inference-gateway-ai-deployment?e=48754805"><b>Experimenting with GPUs: GKE managed DRANET and Inference Gateway AI Deployment</b></a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>March 2nd</b></td>
+      <td><img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-rag-hero.max-2500x2500.png" width="180" /></td>
+      <td><a href="https://cloud.google.com/blog/products/networking/design-private-connectivity-for-rag-ai-apps?e=48754805"><b>Designing private network connectivity for RAG-capable gen AI apps</b></a></td>
+    </tr>
+    
+  </tbody>
+</table>
+
+<br>
+
+
+### <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="30"/> <span style="color:#4285F4;">YouTube Videos</span>
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <b>[Demo] Network Security integration with Fortinet</b><br>
+  <a href="https://www.youtube.com/watch?v=sOBF_Y-VSTA" target="_blank">
+    <img src="https://img.youtube.com/vi/sOBF_Y-VSTA/maxresdefault.jpg" width="100%" alt="Play Video" />
+  </a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### <img src="https://cdn-icons-png.flaticon.com/512/3094/3094918.png" width="30"/> <span style="color:#4285F4;">Hands-on Labs 2026</span>
+
+<table>
+  <thead>
+    <tr>
+      <th width="120">Date</th>
+      <th width="200">Thumbnail</th>
+      <th>Lab Title</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td align="center"><b>March</b></td>
+      <td><img src="https://codelabs.developers.google.com/static/codelabs/gke-inference-gateway-multi-cluster-tpus-dranet/img/52b36edd128f9ffa_1920.png" width="120" alt="Google Cloud" /></td>
+      <td><a href="https://codelabs.developers.google.com/codelabs/gke-inference-gateway-multi-cluster-tpus-dranet" target="_blank"><b>Build multi-cluster GKE Inference Gateway, with TPUs, Cloud Storage FUSE and managed DRANET</b></a></td>
+  </tr> 
+  <tr>
+      <td align="center"><b>March</b></td>
+      <td><img src="https://codelabs.developers.google.com/static/codelabs/anthropic-on-vertexai-psc/img/c8f37e193349bfd6_1920.png" width="120" alt="Google Cloud" /></td>
+      <td><a href="https://google.smh.re/5I5U" target="_blank"><b>Anthropic Claude Opus 4.6 & Gemini 3.1 on Vertex AI with python sdk via Private Service Connect endpoint</b></a></td>
+  </tr> 
+<tr>
+      <td align="center"><b>Feburary</b></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/GCP-1.png" width="120" alt="Google Cloud" /></td>
+      <td><a href="https://codelabs.developers.google.com/codelabs/nodelocal-dns-cache-gke" target="_blank"><b>Explore GKE NodeLocal DNSCache</b></a></td>
+  </tr> 
+  
+  </tbody>
+</table>
+
+<br>
+
+### <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30"/> <span style="color:#0F9D58;">Medium Publication Blog 2026</span>
+
+* [Part I : GKE Managed DRANET with TPUs](https://medium.com/p/ece22b31e4d9)
+* [Part 2 — Exploring DRANET on GKE with B200 GPUs exposed via Inference Gateway](https://medium.com/p/d2aad4c5c960)
+* [Part I— Exploring DRANET on GKE with B200 GPUs and NCCL test](https://medium.com/p/c4674ec10659)
+* [Prepare for the Google Professional Cloud Network Engineer Exam — 2026+ prep sheet](https://medium.com/p/2c7bc591f3ff)
 
 ## 📅 2025 - Content ⬇️⬇️⬇️
 
