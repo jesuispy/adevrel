@@ -117,7 +117,7 @@ I do and contribute to a lot of stuff so here is where you can see some of the s
   <tr>
       <td align="center"><b>July</b></td>
       <td><img src="https://codelabs.developers.google.com/static/codelabs/oss-kubernetes-tpus-dranet-gemma/img/b2f744fcb0c9b4df_1920.jpeg?authuser=86" width="120" alt="Google Cloud" /></td>
-      <td><a href="https://codelabs.developers.google.com/codelabs/oss-kubernetes-tpus-dranet-gemma" target="_blank"><b>Anthropic Claude Opus 4.6 & Gemini 3.1 on Vertex AI with python sdk via Private Service Connect endpoint</b></a></td>
+      <td><a href="https://codelabs.developers.google.com/codelabs/oss-kubernetes-tpus-dranet-gemma" target="_blank"><b>OSS Kubernetes on GCE with TPUs, DRA for TPU, DRANET (OSS) and Gemma 4</b></a></td>
   </tr> 
 
 
