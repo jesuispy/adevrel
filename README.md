@@ -142,6 +142,51 @@ I do and contribute to a lot of stuff so here is where you can see some of the s
 
 <br>
 
+
+### <img src="https://cdn-icons-png.flaticon.com/512/2965/2965335.png" width="30"/> <span style="color:#4285F4;">Technical Papers / Architecture Docs</span>
+
+<table>
+  <tbody>
+   <tr>
+      <td width="220"><img src="https://docs.cloud.google.com/static/architecture/images/ccn-distributed-apps-design/ccn-ncc-nva-design.svg" alt="ace" width="200" /></td>
+      <td>
+        <h4>Cross-Cloud Network Architecture Center</h4>
+        <ul>
+          <li><a href="https://docs.cloud.google.com/architecture/ccn-distributed-apps-design/ccn-ncc-nva" target="_blank">📖 NCC Cross-Cloud Network with NVAs and regional failover</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="220"><img src="https://docs.cloud.google.com/static/architecture/images/networking-for-ai-inference-architecture.svg" alt="ace" width="200" /></td>
+      <td>
+        <h4>Generative AI</h4>
+        <ul>
+          <li><a href="https://docs.cloud.google.com/architecture/networking-for-ai-inference" target="_blank">📖 Networking for AI inference model serving on all backends</a></li>
+        </ul>
+      </td>
+    </tr>
+  <tr>
+      <td width="220"><img src="https://docs.cloud.google.com/static/architecture/images/networking-for-ai-inference-gke-architecture.svg" alt="ace" width="200" /></td>
+      <td>
+          <ul>
+          <li><a href="https://docs.cloud.google.com/architecture/networking-for-ai-inference-gke" target="_blank">📖 Networking for AI inference model serving on GKE</a></li>
+        </ul>
+      </td>
+    </tr>
+  <tr>
+      <td width="220"><img src="https://docs.cloud.google.com/static/architecture/images/ccn-distributed-apps-design/ccn-ncc-nva-design.svg" alt="ace" width="200" /></td>
+      <td>
+        <h4>Agentic AI</h4>
+        <ul>
+          <li><a href="https://docs.cloud.google.com/architecture/multi-agent-private-networking-patterns" target="_blank">📖 Multi-agent private networking patterns in Google Cloud</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
 ### <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30"/> <span style="color:#0F9D58;">Medium Publication Blog 2026</span>
 
 * [OSS — Kubernetes on GCE , DRA Driver for NVIDIA GPUs, DRANET (OSS) and NCCL test — AI Infra](https://medium.com/p/04946fbff6d4)
