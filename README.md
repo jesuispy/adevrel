@@ -46,6 +46,17 @@ I do and contribute to a lot of stuff so here is where you can see some of the s
   </thead>
   <tbody>
 <tr>
+      <td align="center"><b>July 8th</b></td>
+      <td><img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-hero_pfrvm6j.max-2500x2500.png" width="180" /></td>
+      <td><a href="https://cloud.google.com/blog/topics/developers-practitioners/autopilot-clusters-with-gke-managed-dranet-gpus-and-tpus"><b>Autopilot Clusters with GKE managed DRANET: GPUs and TPUs</b></a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>March 2nd</b></td>
+      <td><img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-hero-dra.max-2500x2500.png" width="180" /></td>
+      <td><a href="https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-tpus-gke-managed-dranet-and-multi-cluster-inference-gateway"><b>Experimenting with TPUs, GKE Managed DRANET, and Multi-cluster Inference Gateway</b></a></td>
+    </tr>
+
+<tr>
       <td align="center"><b>April 8th</b></td>
       <td><img src="https://storage.googleapis.com/gweb-cloudblog-publish/images/0-hero-dranet.max-2500x2500.png" width="180" /></td>
       <td><a href="https://cloud.google.com/blog/topics/developers-practitioners/experimenting-with-gpus-gke-managed-dranet-and-inference-gateway-ai-deployment?e=48754805"><b>Experimenting with GPUs: GKE managed DRANET and Inference Gateway AI Deployment</b></a></td>
@@ -65,6 +76,15 @@ I do and contribute to a lot of stuff so here is where you can see some of the s
 ### <img src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" width="30"/> <span style="color:#4285F4;">YouTube Videos</span>
 
 <table>
+<tr>
+<td width="50%" align="center">
+  <b>Network Security Integration with Check Point - Demo </b><br>
+  <a href="https://www.youtube.com/watch?v=ymHZu2ujuXE" target="_blank">
+    <img src="https://img.youtube.com/vi/ymHZu2ujuXE/maxresdefault.jpg" width="100%" alt="Play Video" />
+  </a>
+</td>
+
+</tr>
 <tr>
 <td width="50%" align="center">
   <b>[Demo] Network Security integration with Fortinet</b><br>
@@ -89,13 +109,25 @@ I do and contribute to a lot of stuff so here is where you can see some of the s
     </tr>
   </thead>
   <tbody>
+ <tr>
+      <td align="center"><b>August</b></td>
+      <td><img src="https://d2yds90mtvelsl.cloudfront.net/optimized/4X/3/5/c/35cc5bb8b9b299b53c8b9ef990d272692c7297b6_2_1380x770.jpeg" width="120" alt="Google Cloud" /></td>
+      <td><a href="https://g.dev/cloud/dra-oss-gpu" target="_blank"><b>Tutorial: OSS Kubernetes on GCE with NVIDIA B200 GPUs, DRA for GPU, DRANET (OSS) and Gemma 4 (31B)</b></a></td>
+  </tr> 
+  <tr>
+      <td align="center"><b>July</b></td>
+      <td><img src="https://codelabs.developers.google.com/static/codelabs/oss-kubernetes-tpus-dranet-gemma/img/b2f744fcb0c9b4df_1920.jpeg?authuser=86" width="120" alt="Google Cloud" /></td>
+      <td><a href="https://codelabs.developers.google.com/codelabs/oss-kubernetes-tpus-dranet-gemma" target="_blank"><b>Anthropic Claude Opus 4.6 & Gemini 3.1 on Vertex AI with python sdk via Private Service Connect endpoint</b></a></td>
+  </tr> 
+
+
    <tr>
       <td align="center"><b>March</b></td>
       <td><img src="https://codelabs.developers.google.com/static/codelabs/gke-inference-gateway-multi-cluster-tpus-dranet/img/52b36edd128f9ffa_1920.png" width="120" alt="Google Cloud" /></td>
       <td><a href="https://codelabs.developers.google.com/codelabs/gke-inference-gateway-multi-cluster-tpus-dranet" target="_blank"><b>Build multi-cluster GKE Inference Gateway, with TPUs, Cloud Storage FUSE and managed DRANET</b></a></td>
   </tr> 
   <tr>
-      <td align="center"><b>March</b></td>
+      <td align="center"><b>March</b></t"d>
       <td><img src="https://codelabs.developers.google.com/static/codelabs/anthropic-on-vertexai-psc/img/c8f37e193349bfd6_1920.png" width="120" alt="Google Cloud" /></td>
       <td><a href="https://google.smh.re/5I5U" target="_blank"><b>Anthropic Claude Opus 4.6 & Gemini 3.1 on Vertex AI with python sdk via Private Service Connect endpoint</b></a></td>
   </tr> 
@@ -112,6 +144,11 @@ I do and contribute to a lot of stuff so here is where you can see some of the s
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" width="30"/> <span style="color:#0F9D58;">Medium Publication Blog 2026</span>
 
+* [OSS — Kubernetes on GCE , DRA Driver for NVIDIA GPUs, DRANET (OSS) and NCCL test — AI Infra](https://medium.com/p/04946fbff6d4)
+* [Bootstrapping OSS Kubernetes on GCE with TPU6 and Open-Source DRANET with Gemma 4 LLM](https://medium.com/p/31d1bdd89cc6)
+* [Kubernetes networking 101 on GKE: Quick Reference Guide](https://medium.com/p/27f0de84039e)
+* [Deploying NVIDIA Nemotron-3 Ultra 550B, with B200 GPUs, vLLM on Google Kubernetes Engine — Football edition](https://medium.com/p/921caef71fa3)
+* [10+ DevOps & SRE resources everyone should check out in the AI age — 2026](https://medium.com/p/a110725521b6)
 * [Part I : GKE Managed DRANET with TPUs](https://medium.com/p/ece22b31e4d9)
 * [Part 2 — Exploring DRANET on GKE with B200 GPUs exposed via Inference Gateway](https://medium.com/p/d2aad4c5c960)
 * [Part I— Exploring DRANET on GKE with B200 GPUs and NCCL test](https://medium.com/p/c4674ec10659)
